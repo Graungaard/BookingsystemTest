@@ -1,0 +1,4 @@
+C:\Users\50870\documents\visual studio 2012\Projects\BookingSystem\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\50870\documents\visual studio 2012\Projects\BookingSystem\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\50870\documents\visual studio 2012\Projects\BookingSystem\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\50870\documents\visual studio 2012\Projects\BookingSystem\ClassLibrary\obj\Debug\ClassLibrary.pdb
